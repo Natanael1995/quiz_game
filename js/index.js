@@ -172,7 +172,8 @@ window.onload = function init() {
     acertosj2,
     errosj2,
     perguntasTotalj2,
-    conteudo = document.querySelector('#conteudo');
+    conteudo = document.querySelector('#conteudo'),
+    numero = document.querySelector('#numero');
 
     ////////////////////////////////////////////////////////////////////
     /// cronômetro /////////////////////////////////////////////////////
@@ -180,7 +181,7 @@ window.onload = function init() {
     function contar() {
 
         tempo--;
-        document.forms[0].elements[0].value = tempo;
+        numero.value = tempo;
         cronometro = setTimeout(contar, 1000);
 
         if (tempo == 0) {

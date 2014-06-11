@@ -1,5 +1,5 @@
 body {
-	background: url('img/fundo.jpg');
+	background: url('../img/fundo.jpg');
 }
 div#conteudo_geral {
 	background: rgba(10,10,10,0.5);
