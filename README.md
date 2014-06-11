@@ -1,8 +1,8 @@
 quiz_game
 =========
 
-  Um game de perguntas e respostas sobre conhecimentos gerais
-
+  Um game de perguntas e respostas sobre conhecimentos gerais.
+  
 Sobre
 =========
 
@@ -16,4 +16,4 @@ Intenções e Desenvolvimento
 Versão online
 =========
 
-	<a href="https://googledrive.com/host/0B0bM9YNF_RCEV19WeVpUTi1FMFE/index.html">Confira aqui a versão online<a/>
+	<a href="https://googledrive.com/host/0B0bM9YNF_RCEV19WeVpUTi1FMFE/index.html">Confira aqui a versão online.<a/>
