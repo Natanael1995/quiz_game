@@ -6,4 +6,4 @@
 <p>Este é mais um dos vários jogos de perguntas e respostas que se pode encontrar, porém para tornalo mais dinâmico e diferente de muitos outros é a presença de um cronômetro, o modo 2 jogadores que permite desafiar outro jogador, e uma forma dinâmica de responder e ver o resultado (resposta certa ou errada) logo após a tal ter sido respondida.</p>
 
 <h2>Intenções e Desenvolvimento</h2>
-<p>Foi desenvolvido apenas para fins didáticos em HTML5, CSS3 e JavaScript, sem nehum objetivo comercial somente com o propósito de consolidar meus conhecimentos na área.</p>
+<p>Foi desenvolvido apenas para fins didáticos em HTML5, CSS3 e JavaScript, sem nehum objetivo comercial e somente com o propósito de consolidar meus conhecimentos na área.</p>
