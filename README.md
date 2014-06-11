@@ -1,4 +1,4 @@
-quiz_game
+<h1>quiz_game</h1>
 =========
 
   Um game de perguntas e respostas sobre conhecimentos gerais.
