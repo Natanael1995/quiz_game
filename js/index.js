@@ -27,7 +27,7 @@ var perguntas = [['Em ano começou a Revolução Francesa?','1769','1789','1790'
         ['A revolução Russa ocorreu em?','1900','1975','1917','1919',2],
         ['O DNA é responssával pela:','Alimaentação','Reprodução','Hereditariedade','Proteção',2],
         ['Nome do submúltiplo da carga elétrica mc.','Micro','Mile','Macro','Macrímetro',1],
-        ['Nome da unidade de medida pm.','Picômetro','Pímetro','Picímetro','Pilímetro',3],
+        ['Nome da unidade de medida pm.','Picômetro','Pímetro','Picímetro','Pilímetro',0],
         ['A organela celular mitocôndria é responsável pela:','Respiração','Digestão','Proteção','Movimentação',0],
         ['Ácido desoxirribonucleico.','ADC','RNA','DMA','DNA',3],
         ['A mais radical das vanguardas europeias.','Cubismo','Futurismo','Surrealismo','Dadaísmo',],
