@@ -30,7 +30,7 @@ var perguntas = [['Em ano começou a Revolução Francesa?','1769','1789','1790'
         ['Nome da unidade de medida pm.','Picômetro','Pímetro','Picímetro','Pilímetro',0],
         ['A organela celular mitocôndria é responsável pela:','Respiração','Digestão','Proteção','Movimentação',0],
         ['Ácido desoxirribonucleico.','ADC','RNA','DMA','DNA',3],
-        ['A mais radical das vanguardas europeias.','Cubismo','Futurismo','Surrealismo','Dadaísmo',],
+        ['A mais radical das vanguardas europeias.','Cubismo','Futurismo','Surrealismo','Dadaísmo',3],
         ['Coletivo de chave.','Chaves','Chaverada','Chaveiro','Molho',3],
         ['Número pertencente à seqüência 2, 4, 8, 16, 18, 32, 64...','254','2046','132','4096',3],
         ['Côr predominante da Bandeira da Áustria.','Azul','Verde','Vermelho','Laranja',2],
